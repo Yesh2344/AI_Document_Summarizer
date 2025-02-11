@@ -80,4 +80,4 @@ Your Name - yeswanthsoma83@gmail.com
 
 Project Link: [https://github.com/yourusername/ai-document-summarizer](https://github.com/yourusername/ai-document-summarizer)
 
-@YeswanthSoma All Rights Reserved
+@YeswanthSoma All Copyrights Reserved
