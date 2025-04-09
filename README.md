@@ -76,7 +76,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - yeswanthsoma83@gmail.com
+ - yeswanthsoma83@gmail.com
 
 Project Link: [https://github.com/yourusername/ai-document-summarizer](https://github.com/yourusername/ai-document-summarizer)
 
