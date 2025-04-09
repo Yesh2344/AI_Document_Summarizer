@@ -78,6 +78,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Yeswanth Soma - yeswanthsoma83@gmail.com
 
-Project Link: [https://github.com/yourusername/ai-document-summarizer](https://github.com/yourusername/ai-document-summarizer)
+Project Link: [https://github.com/yourusername/ai-document-summarizer](https://github.com/yesh2344/ai-document-summarizer)
 
 @YeswanthSoma All Copyrights Reserved
