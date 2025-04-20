@@ -80,5 +80,6 @@ Yeswanth Soma - yeswanthsoma83@gmail.com
 
 Project Link: [https://github.com/yourusername/ai-document-summarizer](https://github.com/yesh2344/ai-document-summarizer)
 
+## Copyrights
 
 @YeswanthSoma All Copyrights Reserved
