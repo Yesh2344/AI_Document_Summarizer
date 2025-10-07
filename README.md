@@ -1,5 +1,6 @@
 # AI Document Summarizer
 
+## Overview
 
 AI Document Summarizer is a Python desktop application that uses advanced natural language processing to generate concise summaries of PDF documents. Leveraging the power of Hugging Face's Transformers library, this tool provides quick and accurate text summaries with just a few clicks.
 
