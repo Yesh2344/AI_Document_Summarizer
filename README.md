@@ -1,4 +1,3 @@
-# AI Document Summarizer
 
 ## Overview
 
