@@ -3,6 +3,7 @@ from tkinter import filedialog, messagebox
 from transformers import pipeline
 import PyPDF2
 
+# Added comment
 def extract_text_from_pdf(file_path):
     """Extract text from a PDF file."""
     try:
