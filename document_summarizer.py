@@ -20,6 +20,7 @@ def extract_text_from_pdf(file_path):
         return f"Error reading PDF: {str(e)}"
 
 def summarize_text(text, max_length=150, min_length=30):
+# Added comment
     """Generate a summary of the given text."""
     try:
         summarizer = pipeline("summarization", model="facebook/bart-large-cnn")
